@@ -13,4 +13,4 @@ To add the worker nodes, log into them and run the second command you copied.
 
 To verify the swarm, SSH back into manager01 and run ```docker node ls```
 The output should look like this.
-![docker node ls](https://imgur.com/a/t5c3baG.jpg)
+![docker node ls](https://i.imgur.com/6sHL70C.png)
