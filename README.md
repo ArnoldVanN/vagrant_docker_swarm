@@ -37,4 +37,4 @@ dockersamples/visualizer```
 This will create a service based on the visualizer image. A handy tool to view your swarm and services running on it.
 
 After navigating to the ip the visualizer is running on you should see something like this: 
-![docker visualizer](https://imgur.com/n3LXm6W)
+![docker visualizer](https://imgur.com/n3LXm6W.png)
